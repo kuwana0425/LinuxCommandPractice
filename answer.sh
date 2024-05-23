@@ -68,4 +68,5 @@ $ rm practice_file2.txt
 $ vi practice_file1.txt
 
 # 21. `practice_file1.txt`に書き込んだ内容を出力してください。
+$ cat practice_file1.txt
 
